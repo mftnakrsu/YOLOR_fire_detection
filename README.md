@@ -15,3 +15,11 @@ Original paper: https://arxiv.org/abs/2105.04206
     python train.py --batch-size 8 --img 1280 1280 --data coco.yaml --cfg cfg/yolor_p6.cfg --weights '' --device 0 --name yolor_p6 --hyp hyp.scratch.1280.yaml --epochs 300
 
 
+## Some results
+
+![train_batch0](https://user-images.githubusercontent.com/57320216/175908556-8e1e8553-9b5e-4eaa-9b8b-68319c8481e5.jpg)
+![train_batch2](https://user-images.githubusercontent.com/57320216/175908566-e75fa9e8-e932-46e2-ae94-d7de3dd469bf.jpg)
+![train_batch1](https://user-images.githubusercontent.com/57320216/175908572-8e4d4356-dd71-457e-ba3c-14ff7be0e6c3.jpg)
+![test_batch2_labels](https://user-images.githubusercontent.com/57320216/175908580-56438ccc-fa28-4f9f-85eb-3d475e4102c8.jpg)
+![test_batch0_labels](https://user-images.githubusercontent.com/57320216/175908610-d540cc51-b2a9-46c0-b14f-07a96e8c9ea3.jpg)
+![test_batch1_labels](https://user-images.githubusercontent.com/57320216/175908622-007c20e2-d6d0-41c3-90df-5041500cd820.jpg)
